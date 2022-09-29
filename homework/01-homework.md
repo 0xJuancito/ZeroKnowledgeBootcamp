@@ -42,7 +42,5 @@ We start at 0 and go through 13 numbers in counter-clockwise sequence (13 is neg
 
 ## Use cases
 
-In your groups, think of some use cases of zero knowledge proofs. What problems are there when using zkps in real world situations?
-
 **Answer:** One possible problem is **information leakeage**: how much extra information is the Verifier going to learn during the course of this proof, beyond the mere fact that the statement is true?
 
